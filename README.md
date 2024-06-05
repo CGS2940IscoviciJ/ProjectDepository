@@ -1,2 +1,2 @@
-# ProjectDepository
-Project Depository
+# ProjectRepository
+Project Repository
